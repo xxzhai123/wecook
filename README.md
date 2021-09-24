@@ -1,0 +1,2 @@
+# wecook
+Typecho
